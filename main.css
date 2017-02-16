@@ -11,9 +11,9 @@ h1 {
 
 
 img {
-  width: 200px;
+  width:200px;
   float: right
-  border: 3px solid teal;
+  border:3px solid teal;
   /*
   Border-style: solid;
   border size: 3px;
